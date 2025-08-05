@@ -20,32 +20,32 @@
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="aws" 
+    title="aws"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="java" 
+    title="java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="vscode" 
+    title="vscode"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="linux" 
+    title="linux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
